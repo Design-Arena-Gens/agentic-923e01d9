@@ -1,0 +1,6 @@
+1. Scaffold Next.js project structure manually ✅
+2. Implement workflow UI and logic ✅
+3. Add styling and assets ✅
+4. Add package configuration and scripts ✅
+5. Run npm install and build/test ✅
+6. Deploy to Vercel and verify ✅
